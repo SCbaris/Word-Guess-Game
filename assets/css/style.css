@@ -20,6 +20,10 @@ body{
     text-align: center;
     font-size: 50px;
 }
+#play-pause {
+    width: 40%;
+    padding-left: 30%;
+}
 .imagWordGuess{
     width: 100%;
 
