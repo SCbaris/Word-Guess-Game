@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    color: azure;
+    font-family: 'Kalam', cursive;
+    padding: 0;
+    margin: 0;
+    margin: 0px auto;
+}
+.imag{
+    background-color: black;
+    position: relative;
+    vertical-align:middle;
+    margin-left:15%;
+    width: 80%;
+}
+#imagHangMan{
+    width: 100%;
+}
+#resultText{
+    text-align: center;
+    font-size: 50px;
+}
+.imagWordGuess{
+    width: 100%;
+
+}
+.rightSide{
+    border-style: dashed;
+    border-color:azure;
+    height: 800px;
+    width: 20%;
+    float: left;
+    padding: 20px;
+ 
+
+}
+.leftSide{
+    border-style: dashed;
+    border-color:azure;
+    height: 0800px;
+    width: 20%;
+    float: left;
+    padding: 20px;
+    margin-left:30%;
+    
+}
